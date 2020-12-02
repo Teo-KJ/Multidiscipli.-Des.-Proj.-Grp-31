@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'right_arrow'
+}
+
+item {
+  id: 2
+  name: 'left_arrow'
+}
+
+item {
+  id: 3
+  name: 'six'
+}
+
+item {
+  id: 4
+  name: 'zero'
+}
+
+item {
+  id: 5
+  name: 'alphabet_v'
+}
+
+item {
+  id: 6
+  name: 'alphabet_w'
+}
+
+item {
+  id: 7
+  name: 'alphabet_x'
+}

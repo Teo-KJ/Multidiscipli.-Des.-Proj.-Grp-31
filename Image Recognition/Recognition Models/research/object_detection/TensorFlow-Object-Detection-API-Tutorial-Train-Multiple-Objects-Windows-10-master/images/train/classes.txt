@@ -1,0 +1,7 @@
+zero
+alphabet_x
+left_arrow
+right_arrow
+six
+alphabet_w
+alphabet_v
