@@ -1,3 +1,8 @@
+# Image Recognition
+This folder contains the scripts for the image recognition model. The model is used by the PC based on input from RPi camera to detect the identifier of specific objects printed on the card. The model, developed with TensorFlow using Inception, is elaborated below.
+
+<img height="200" alt="image" src=https://user-images.githubusercontent.com/48685014/100955021-b8433480-3550-11eb-865c-2af8b53d6939.png>
+
 ![Logo](https://storage.googleapis.com/model_garden_artifacts/TF_Model_Garden.png)
 
 # Welcome to the Model Garden for TensorFlow
