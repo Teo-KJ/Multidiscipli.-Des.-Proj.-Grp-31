@@ -1,5 +1,7 @@
 # Raspberry Pi
 
+<img width="400" alt="image" src=https://user-images.githubusercontent.com/48685014/100954396-74036480-354f-11eb-9dd4-c388cde31940.png>
+
 ## Overview
 The Raspberry Pi (RPi) acts as the centre for communications between the other devices, namely the Android tablet and the Arduino Uno board.  Additionally, it also acts as a medium for the PiCamera module to capture the footage for image recognition. As shown in the diagram below, the RPi uses WiFi for robust connectivity between the PC and itself, Bluetooth 4.1 for the Android and Universal Serial Bus connection with Arduino Uno. uter and Arduino Uno) connected to RPi, while data is shared in the RPi between the threads.
 
