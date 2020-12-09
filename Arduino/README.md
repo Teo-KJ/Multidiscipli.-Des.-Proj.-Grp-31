@@ -52,3 +52,6 @@ The objectives of the Arduino sub-team is to handle the Arduino Uno board, and t
 
 ## To Run the Robot
 Use the main script from the folder name "main"
+
+## [Original Repository](https://github.com/junrong-jr/arduino)
+
