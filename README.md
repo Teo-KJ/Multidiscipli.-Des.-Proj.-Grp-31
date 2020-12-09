@@ -7,3 +7,10 @@ This repository contains the scripts collated for all components of the entire p
 ## About the Project
 This project is a group effort as part of CE/CZ3004 Multidisciplinary Design Project, to design a robotic system that can perform specific tasks. This project comprises of the following group members.
 
+Group Members | Sub-team
+--- | ---
+Fei Yu, Yun Jie | [Algorithms](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Algorithms)
+Jun Rong, Thirukarthik | [Arduino](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Arduino)
+Eunice, Kirath | [Android](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Android)
+Kai Jie, Derry | [Raspberry Pi](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Raspberry%20Pi)
+Benedict, Raymond | [Image Recognition](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Image%20Recognition)
