@@ -1,4 +1,4 @@
-# Multidisciplinary-Design-Project-Group-31
+# Multidiscipli.-Des.-Proj.-Grp-31
 
 <img height="200" alt="image" src=https://user-images.githubusercontent.com/48685014/100954587-cd6b9380-354f-11eb-8c8e-9983fb3c7ae3.png> <img height="200" alt="image" src=https://user-images.githubusercontent.com/48685014/100954054-cbed9b80-354e-11eb-81ec-0b37e12c31e9.png>
 
