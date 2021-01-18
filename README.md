@@ -14,3 +14,8 @@ Jun Rong, Thirukarthik | [Arduino](https://github.com/Teo-KJ/Multidisciplinary-D
 Eunice, Kirath | [Android](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Android)
 Kai Jie, Derry | [Raspberry Pi](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Raspberry%20Pi)
 Benedict, Raymond | [Image Recognition](https://github.com/Teo-KJ/Multidisciplinary-Design-Project-Group-31/tree/main/Image%20Recognition)
+
+## Our Achievement
+Exploration - 9th place
+
+Image Recognition - 6th place
